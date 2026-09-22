@@ -76,7 +76,7 @@ class NLPEngine:
             "sentiment": sentiment,
             "risk_score": score,
             "event_type": event_type,
-            "detected_location":primay_loc,
+            "detected_location": primary_loc,
             "detected_organizations": found_orgs,
             "potential_supply_impact": potential_impact,
             "affected_nodes": affected_nodes,
